@@ -1,4 +1,4 @@
-# StardewValley-SMAPI-CICD
+# TrashTrash
 This is a template repository that provides a base solution for developing Stardew Valley mods with [SMAPI](https://smapi.io) with Jenkins providing CI/CD.
 
 When enabled, the zip file that is produced is uploaded to CurseForge.
